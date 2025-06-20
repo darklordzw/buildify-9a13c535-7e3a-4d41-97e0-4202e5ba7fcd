@@ -10,12 +10,12 @@ const HomePage = () => {
       
       <main className="main-content">
         <div className="content-container">
-          <p>This is a simple blue webpage.</p>
+          <p>This is a simple green webpage.</p>
         </div>
       </main>
       
       <footer className="footer">
-        <p>&copy; {new Date().getFullYear()} Blue Page</p>
+        <p>&copy; {new Date().getFullYear()} Green Page</p>
       </footer>
     </div>
   );
